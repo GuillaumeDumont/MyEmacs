@@ -1,0 +1,116 @@
+((("flush" .
+   [0 0 1 0 0])
+  ("Get" .
+   [2 0 0])
+  ("clear" .
+   [0 0 0 0 2])
+  ("get_bounds" .
+   [0 0 0 0 1 0 0 0 0 1])
+  ("threshold" .
+   [0 0 0 0 1 0 0 0 2])
+  ("get_departure_time" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tasks_" .
+   [0 0 0 0 0 1])
+  ("second" .
+   [0 0 0 0 0 1])
+  ("begin" .
+   [0 0 0 0 1])
+  ("arrival_time_" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("(Employee::Schedule &s, std::pair<unsigned int, unsigned int> t)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("add_to_schedule" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("iterator" .
+   [0 0 0 0 0 0 0 1])
+  ("candidates" .
+   [0 0 1 0 0 0 0 0 0 1])
+  ("departure_time_" .
+   [1 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("first" .
+   [3 0 0 0 0])
+  ("get_minutes" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("get_score" .
+   [0 0 0 0 0 0 2 0 0])
+  ("Solution" .
+   [1 0 0 0 0 0 0 1])
+  ("(double score)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("set_score" .
+   [0 0 0 0 0 0 0 0 1])
+  ("Itineraries" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("get_itineraries" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("data/itinerary.hh" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("io/input_handler.hh" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("color-theme" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("(const PTrie &)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("operator=" .
+   [1 0 0 0 0 0 0 0 0])
+  ("import" .
+   [0 0 0 0 0 1])
+  ("insert" .
+   [1 0 0 0 0 1])
+  ("(std::string &word, int frequency)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("load" .
+   [1 0 0 0])
+  ("(const std::string &filename)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("require" .
+   [0 0 0 0 0 1 0])
+  ("theme-obsidian" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("struct" .
+   [0 0 1 0 0 1])
+  ("compare" .
+   [0 0 1 0 0 0 0])
+  ("(" .
+   [2])
+  ("size" .
+   [3 0 0 0])
+  ("()" .
+   [0 22])
+  ("length" .
+   [1 0 0 0 0 0])
+  ("eat_words" .
+   [0 0 0 0 0 0 0 0 1])
+  ("numeric_limits" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("TabuSearch" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("(Itineraries &t, unsigned int max_id)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("find_initial_solution" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_schedules" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 2])
+  ("Itinerary" .
+   [0 0 0 0 0 0 0 0 2])
+  ("(unsigned int id, Point p1, Point p2, const Time &t1, const Time &t2)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("get_schedule" .
+   [0 0 0 0 4 0 0 0 0 0 0 1])
+  ("push_back" .
+   [0 0 0 0 0 0 0 0 1])
+  ("(const value_type &__x)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("empty" .
+   [0 1 0 0 2])
+  ("Schedules" .
+   [0 0 0 0 0 0 0 0 1])
+  ("set_id" .
+   [0 0 0 0 0 1])
+  ("(unsigned int id)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("alGetError" .
+   [0 0 0 0 1 1 0 0 0 0])
+  ("AL_NO_ERROR" .
+   [0 0 1 1 0 0 0 0 0 0 0])))
